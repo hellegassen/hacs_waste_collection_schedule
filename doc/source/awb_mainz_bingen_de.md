@@ -9,9 +9,9 @@ waste_collection_schedule:
     sources:
     - name: awb_mainz_bingen_de
       args:
-        bezirk: Abfuhrbezirk
-        ort: Ortschaft
-        strasse: Straße
+        bezirk: VG Gensingen-Sprendlingen
+        ort: Sprendlingen
+        strasse: Lorenzgasse 3
         
 ```
 
